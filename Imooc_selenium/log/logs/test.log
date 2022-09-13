@@ -1,0 +1,6 @@
+test
+2022-08-31 18:07:56,775 user_log.py <module> 10 DEBUG test1 
+2022-08-31 18:36:55,264 user_log.py--> <module> 10 DEBUG ----> test1 
+2022-08-31 18:37:12,778 user_log.py--> <module> 10: DEBUG ----> test1 
+2022-09-01 19:05:19,491 user_log.py--> <module> 10: DEBUG ----> test1 
+2022-09-01 19:05:52,535 user_log.py--> <module> 10: DEBUG ----> test1 
